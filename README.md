@@ -1,6 +1,6 @@
 # Charlie Kirk Twitter Archives
 
-This collection contains 40039 archived tweets by [charliekirk11](https://twitter.com/charliekirk11).  
+This collection contains 40,039 archived tweets by [charliekirk11](https://twitter.com/charliekirk11).  
 
 Please note that all tweets quoted here are sourced from the
 [Wayback Machine](https://web.archive.org) and were not directly accessed through the Twitter API or
